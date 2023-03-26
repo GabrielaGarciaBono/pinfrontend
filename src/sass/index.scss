@@ -1,0 +1,19 @@
+$accordion-button-active-color: #d24ee1;
+$body-color: #ba6255;
+$accordion-button-bg:#58c990;
+$accordion-button-active-bg: #E0752F;
+$navbar-light-color:#f3f5f4;
+$navbar-light-disabled-color:#38a06c;
+body{
+    height:5000px;
+    padding-top: 56px;
+    object-fit: cover;
+    background-color: transparent;
+}
+
+navbar{
+    background-color: transparent;
+}
+@import '~bootstrap/scss/bootstrap.scss'
+
+
